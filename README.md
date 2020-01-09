@@ -9,5 +9,5 @@
 * **[Visual Studio Code](https://code.visualstudio.com/)**
 * * *
 ## 副檔名
-* **.py**
-* **.ipynb**
+* **.py**(一般python檔)
+* **.ipynb**(python筆記本檔)
